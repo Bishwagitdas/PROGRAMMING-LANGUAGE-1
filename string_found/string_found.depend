@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1631204267 source:c:\users\bishw\desktop\compiler\string_found\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
